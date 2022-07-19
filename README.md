@@ -16,7 +16,7 @@ Pewlett-Hackard's employee database analysis reveals the following:
 - The majority of those who are set to retire hold the most senior positions
 - Almost 70% of those retiring are "senior engineers" and "senior staff" 
 
-IMGAE HERER SHORT ONE
+![](Candidates%20election%20results.png)
 
 - In order to close the gap between the leaving senior professionals and junior positions, the Mentorship Program should be well-functioning.  It will serve as a knowledge transfer. 
 - The Mentorship Eligibility Program has sufficient amount of senior mentors who can help new or existing Pewlett-Hackard professionals transition into more senior positions 
