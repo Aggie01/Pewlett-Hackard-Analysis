@@ -26,7 +26,7 @@ IMAGE HERE MENTOR
 # Summary:
 - In order for Pewlett-Hackard to close the critical gap of leaving "talent and expertise," it is suggested that the company closely monitors those who may retire soon and those who are farther in the process.  This can be done by looking closely at "birth_data" since it correlates to retirement.
 
-![](retirement_titles_birth_date.png)
+![](mentorship_eligibility.png)
 
 
 - Employees; however, can retire whenever they want and may not give much notice.  For that reason, Pewlett-Hackard's Mentorship Program should be set in place and running  as a learning opportunity for younger workers. Furthermore, it is suggested that Pewlett-Hackard identifies areas of operations in which people are not retiring as expected.  Employers may be able to keep older workers and at the same time avoid sudden "silver tsunami" by possibly offering them new roles that might be less intensive for instance allowing them to work part-time. 
