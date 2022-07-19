@@ -21,7 +21,8 @@ Pewlett-Hackard's employee database analysis reveals the following:
 - In order to close the gap between the leaving senior professionals and junior positions, the Mentorship Program should be well-functioning.  It will serve as a knowledge transfer. 
 - The Mentorship Eligibility Program has sufficient amount of senior mentors who can help new or existing Pewlett-Hackard professionals transition into more senior positions 
 
-IMAGE HERE MENTOR
+![](retirement_titles_birth_date.png)
+
 
 # Summary:
 - In order for Pewlett-Hackard to close the critical gap of leaving "talent and expertise," it is suggested that the company closely monitors those who may retire soon and those who are farther in the process.  This can be done by looking closely at "birth_data" since it correlates to retirement.
