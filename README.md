@@ -30,5 +30,5 @@ Pewlett-Hackard's employee database analysis reveals the following:
 ![](mentorship_eligibility.png)
 
 
-- Employees; however, can retire whenever they want and may not give much notice.  For that reason, Pewlett-Hackard's Mentorship Program should be set in place and running  as a learning opportunity for younger workers. Furthermore, it is suggested that Pewlett-Hackard identifies areas of operations in which people are not retiring as expected.  Employers may be able to keep older workers and at the same time avoid sudden "silver tsunami" by possibly offering them new roles that might be less intensive for instance allowing them to work part-time. 
+- Senior employees can retire whenever they want and may not give much notice.  For that reason, Pewlett-Hackard's Mentorship Program should be set in place and running  as a learning opportunity for younger workers. Furthermore, it is suggested that Pewlett-Hackard identifies areas of operations in which people are not retiring as expected.  Employers may be able to keep older workers and at the same time avoid sudden "silver tsunami" by possibly offering them new roles that might be less intensive for instance allowing them to work part-time. 
 
